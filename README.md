@@ -156,20 +156,33 @@ Bollywood-Movie-Analysis/
 ## 📌 Conclusion
 This project showcases practical data analysis skills by transforming raw movie data into meaningful insights through Python-based analytics and visualizations. It is an excellent portfolio project for aspiring Data Analysts.
 
-## ⭐ Support
-
-If you like this project, please star the repository ⭐
-It inspires more futuristic UI experiments
 
 
 
-## 👤 Author    
+## 👤 Author
+
 - Manjunath G L
-  
-  If you want to contact me, you can reach me through below handles.
+
+If you want to contact me, you can reach me through below handles.
 
 <a href="https://www.linkedin.com/in/manjunathgl/" target="_blank">
   <img src="https://img.shields.io/badge/ManjunathGL-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
+
 <a href="https://github.com/ManjunathGlO" target="_blank">
+  <img src="https://img.shields.io/badge/ManjunathGl-20232A?style=for-the-badge&logo=Github&logoColor=white" alt="Twitter"/>
+</a>
+
+
+  ## 📄 License
+
+- This project is licensed under the MIT License — you are free to use, modify, and distribute the code with proper attribution.
+- Feel free to adapt it for academic, personal, or commercial use.
+
+
+
+## ⭐ Support
+
+If you like this project, please star the repository ⭐
+It inspires more futuristic UI experiments
 
