@@ -111,8 +111,7 @@ Generated actionable insights regarding:
 - Business Intelligence
 - Python Programming
 
-## 📌 Conclusion
-This project showcases practical data analysis skills by transforming raw movie data into meaningful insights through Python-based analytics and visualizations. It is an excellent portfolio project for aspiring Data Analysts.
+
 
 ## 📂 Project Structure
 
@@ -149,3 +148,9 @@ Bollywood-Movie-Analysis/
 | `requirements.txt` | Python libraries required to run the project        |
 | `LICENSE`          | Open-source license (MIT recommended)               |
 | `.gitignore`       | Prevents unnecessary files from being uploaded      |
+
+
+## 📌 Conclusion
+This project showcases practical data analysis skills by transforming raw movie data into meaningful insights through Python-based analytics and visualizations. It is an excellent portfolio project for aspiring Data Analysts.
+
+
