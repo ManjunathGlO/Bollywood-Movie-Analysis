@@ -1,12 +1,13 @@
 
-
-# 🎬 Bollywood Movie Analysis
-
-
-
 <img width="1536" height="1024" alt="ChatGPT Image Jul 5, 2026, 12_16_09 PM" src="https://github.com/user-attachments/assets/3af0b134-cc6d-4787-b1f7-66c48206cfdf" />
 
+<h3 align="center">
+  <a href="./BollywoodMovieAnalysis.ipynb">
+    <strong>📓 View Jupyter Notebook »</strong>
+  </a>
+</h3>
 
+# 🎬 Bollywood Movie Analysis
 This project performs Exploratory Data Analysis (EDA) on a Bollywood movie dataset to discover insights into movie performance, ratings, genres, budgets, revenue, and other key factors.
 ## 🎯 Business Problem
 
