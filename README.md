@@ -2,9 +2,12 @@
 
 # 🎬 Bollywood Movie Analysis
 
+
+
+<img width="1536" height="1024" alt="ChatGPT Image Jul 5, 2026, 12_16_09 PM" src="https://github.com/user-attachments/assets/3af0b134-cc6d-4787-b1f7-66c48206cfdf" />
+
+
 This project performs Exploratory Data Analysis (EDA) on a Bollywood movie dataset to discover insights into movie performance, ratings, genres, budgets, revenue, and other key factors.
-
-
 ## 🎯 Business Problem
 
 Movie production companies invest significant budgets in films, but not every movie performs well at the box office. Understanding the factors that influence a movie's success can help producers, investors, and marketers make better business decisions.
@@ -153,4 +156,20 @@ Bollywood-Movie-Analysis/
 ## 📌 Conclusion
 This project showcases practical data analysis skills by transforming raw movie data into meaningful insights through Python-based analytics and visualizations. It is an excellent portfolio project for aspiring Data Analysts.
 
+## ⭐ Support
+
+If you like this project, please star the repository ⭐
+It inspires more futuristic UI experiments
+
+
+
+## 👤 Author    
+- Manjunath G L
+  
+  If you want to contact me, you can reach me through below handles.
+
+<a href="https://www.linkedin.com/in/manjunathgl/" target="_blank">
+  <img src="https://img.shields.io/badge/ManjunathGL-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+</a>
+<a href="https://github.com/ManjunathGlO" target="_blank">
 
